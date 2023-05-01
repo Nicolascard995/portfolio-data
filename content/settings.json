@@ -1,19 +1,19 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
+    "siteUrl": "https://portfolio. Nicolas.app/",
+    "title": "Portfolio Data Science",
     "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
-    "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "description": "Porfolio NIcolás",
+    "author": "Nicolás Alejandro Cardozo",
+    "avatar": "../content/images/logo.png",
+    "bio": "From the kitchen to the data lab, I bring a fresh perspective to every challenge.",
     "social": {
       "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "github": "https://github.com/Nicolascard995",
+      "medium": "https://medium.com/@nicolascard95",
+      "linkedin": "https://www.linkedin.com/in/nicolascardozo95arg/",
+      "mail": "mailto:dozo95@dozo.tech"
     }
   },
   "siteConfiguration": {
@@ -22,7 +22,7 @@
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
+        { "label": "Projects", "url": "/#features" },
         { "label": "Github", "url": "/#github" }
       ],
       "ctaButton": {

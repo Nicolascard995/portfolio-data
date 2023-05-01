@@ -2,40 +2,40 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "🕹️ Gradient Boosted Trees (GBT) ",
+      "title": "Survivors of the Titanic",
+      "description": "The Python programming language and the TensorFlow Decision Forests (TF-DF) library are used to train a Gradient Boosted Trees (GBT) model using the Titanic training data. Pre-processing of the data and tokenization of passenger names is performed to improve the accuracy of the model.",
+      "tags": ["Data Science", "Data Preprocessing"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/machine learning.jpg",
         "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "linkTo": "https://github.com/konstantinmuenster/Nicolascard995/"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/Nicolascard995/machine_learning_titanic"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://www.kaggle.com/code/nicolascardozo995/titanic-esp-dozo995-ipynb"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "🧰 SUPERVISED MAACHINE LEARNING",
+      "title": "Restaurant Revenue",
+      "description": "Restaurant Revenue Prediction This project aims to predict the revenue of restaurants using regression models. The dataset used in this project is the 'Restaurant Revenue Prediction' dataset from Kaggle.",
+      "tags": ["Regression models", "Business intelligence"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/restaurant.png",
         "alt": "Extendable Layout"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/Nicolascard995/restaurant_revenue_prediction"
         }
       ]
     }
@@ -43,6 +43,6 @@
   "button": {
     "visible": true,
     "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "url": "https://github.com/Nicolascard995/"
   }
 }
