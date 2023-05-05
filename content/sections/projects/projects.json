@@ -2,10 +2,10 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ Gradient Boosted Trees (GBT) ",
-      "title": "Survivors of the Titanic",
-      "description": "The Python programming language and the TensorFlow Decision Forests (TF-DF) library are used to train a Gradient Boosted Trees (GBT) model using the Titanic training data. Pre-processing of the data and tokenization of passenger names is performed to improve the accuracy of the model.",
-      "tags": ["Data Science", "Data Preprocessing"],
+      "category": "🕹️ Convolution Classifier (CNN) ",
+      "title": "The Art of Convolutional Car-tography",
+      "description": "This repository contains code for building an image classifier using convolutional neural networks (CNNs). The goal of this classifier is to classify images of cars and trucks.",
+      "tags": ["Data Science", "Image Preprocessing"],
       "image": {
         "src": "../../images/machine learning.jpg",
         "alt": "Quick Setup",
