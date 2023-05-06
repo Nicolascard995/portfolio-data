@@ -1,3 +1,4 @@
+
 ---
 title: "A Chef's Journey to Becoming a Data Entrepreneur"
 description: "My focus has always been to be an agent of change and an innovator. The transition from gastronomy to technology is a natural step in my career path and in my commitment to create solutions that can change the world for the better."

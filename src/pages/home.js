@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { Page, Seo } from 'gatsby-theme-portfolio-minimal';
 
